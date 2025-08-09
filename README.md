@@ -210,7 +210,7 @@ datasets >= 2.5.0
 
 ### Quick Installation
 ```bash
-git clone https://github.com/your-repo/flan-t5-summarization
+git clone https://github.com/muhammedehab35/fine-tun-FLAN-T5-for-text-summarisation-task-using-PEFT-approach..git
 cd flan-t5-summarization
 pip install -r requirements.txt
 ```
